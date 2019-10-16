@@ -1,6 +1,17 @@
-# vue-cli
+# A Stock Trader app  
 
-> A Vue.js project
+> A Stock Trader app using Vuejs and Firebase as database
+
+
+
+![image](homepage.png)
+
+![image]All.png)
+
+![image](BMW.png)
+
+![image](firebase.png)
+
 
 ## Build Setup
 
